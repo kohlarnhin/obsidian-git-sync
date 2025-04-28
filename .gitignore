@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Build output
+main.js
+*.js.map
+
+# Development environment
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Obsidian files
+.obsidian/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 

@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-git-sync",
+    "name": "Git Sync",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "自动同步指定目录的 Git 仓库",
+    "author": "Your Name",
+    "isDesktopOnly": true
+} 
